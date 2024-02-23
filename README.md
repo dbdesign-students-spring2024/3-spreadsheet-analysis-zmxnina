@@ -62,7 +62,7 @@ To prepare the original data set for import into a spreadsheet, the following pr
     This record exhibit zero values across all relevant fields pertaining to the number of assaults. Such records do not provide meaningful insights for our analysis and thus are omitted during the data scrubbing process.
 
  ### Links to Relevant Data Files
- - Raw Data: [LEOKA_ASSAULT_TIME_WEAPON_INJURY_1995_2022.csv](data/LEOKA_ASSAULT_TIME_WEAPON_INJURY_1995_2022.csv)
+ - Raw Data: [LEOKA_ASSAULT_TIME_WEAPON_INJURY_1995_2022.csv](https://drive.google.com/file/d/1y5AOpLNnHL3yJjGV-WvR-EEJfE0R8q8E/view?usp=sharing)
  - Munged Data: [clean_data.csv](data/clean_data.csv)
  - Spreadsheet: [spreadsheet_analysis.xlsx](data/spreadsheet_analysis.xlsx)
  
